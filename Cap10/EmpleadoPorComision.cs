@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cap10
 {
-    class EmpleadoPorComision : Object
+    public class EmpleadoPorComision : Object
     {
         private string primerNombre;
         private string apellidoPaterno;
