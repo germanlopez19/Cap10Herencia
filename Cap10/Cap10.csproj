@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EmpleadoBaseMasComision2.cs" />
+    <Compile Include="EmpleadoBaseMasComision3.cs" />
     <Compile Include="EmpleadoPorComision.cs" />
+    <Compile Include="EmpleadoPorComision2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

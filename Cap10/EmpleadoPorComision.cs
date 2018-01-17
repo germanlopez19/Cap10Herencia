@@ -59,7 +59,7 @@ namespace Cap10
             }//Fin de la propiedad TarifaComision
         }
         //Calcula el salario del empleado por comision
-        public decimal Ingresos()
+        public virtual decimal Ingresos()
         {
             return tarifaComision * ventasBrutas;
         }//Fin del método Ingresos
